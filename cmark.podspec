@@ -14,7 +14,7 @@
     "tvos": "9.0"
   },
   "source": {
-    "git": "https://github.com/DianQK/cmark/releases.git",
+    "git": "https://github.com/DianQK/cmark.git",
     "tag": "0.25.3"
   },
   "source_files": [
